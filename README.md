@@ -1,5 +1,5 @@
 # cbz-merger-go
-A simple script that merges .cbz files with the naming scheme "<volume> - <chapter> <tittle>.cbz"  to an output directory.
+A simple script that merges .cbz files to an output directory.
 
 E.g: the files "001 - 0001 title.cbz", "001 - 0001 title.cbz", "001 - 0001 title.cbz" will be merged into "001_title.cbz" while maintaining the order directed by the second number.  
 Usually these are the number of the volume and chapter.
